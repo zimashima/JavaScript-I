@@ -17,6 +17,42 @@ const example = {
   gender: "F",
 }
 
+const intern1 = {
+  id: 1,
+  email: 'mmelloy0@psu.edu',
+  name: 'Mitzi'
+  gender: 'F'
+}
+
+const intern2 = {
+  id: 2,
+  email: 'kdiben1@tinypic.com',
+  name: 'Kennan'
+  gender: 'M'
+}
+
+const intern3 = {
+  id: 3,
+  email: 'kmummery2@wikimedia.org',
+  name: 'Keven'
+  gender: 'M'
+}
+
+const intern4 = {
+  id: 4,
+  email: 'gmartinson3@illinois.edu',
+  name: 'Gannie'
+  gender: 'M'
+}
+
+const intern5 = {
+  id: 5,
+  email: 'adaine5@samsung.com',
+  name: 'Antonietta'
+  gender: 'F'
+}
+
+console.log(intern5)
 // Write your intern objects here:
 
 
